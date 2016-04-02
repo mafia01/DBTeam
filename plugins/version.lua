@@ -20,7 +20,7 @@ end
 
 return {
   patterns = {
-    "^#OffLiNeTG$"
+    "^#version$"
   }, 
   run = run 
 }
